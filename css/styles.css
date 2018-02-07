@@ -1,0 +1,36 @@
+body{
+  background-color: blue;
+  background-image: url("http://www.logosbibleinstitute.net/wp-content/uploads/2016/03/INeedaMiracle.jpg");
+}
+#ball{
+  cursor: pointer;
+  margin-left: 30em;
+  margin-top: 20em;
+}
+#ball:hover{
+}
+#celeby{
+  display: none;
+}
+#mewtwo{
+  display: none;
+}
+#megaball{
+  cursor: pointer;
+}
+#rocket{
+  cursor: pointer;
+}
+#zapdos{
+  display: none;
+}
+#moltres{
+  display: none;
+}
+#articuno{
+  display: none;
+}
+.space{
+  background-color: red;
+  background-image: url("https://vignette.wikia.nocookie.net/powerlisting/images/7/73/Space-purple-nebula-1.jpg/revision/latest?cb=20131006092217");
+}
